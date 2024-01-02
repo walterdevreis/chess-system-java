@@ -8,6 +8,18 @@ A aplicação é realizada no console da IDE ou no terminal conforme imagem abai
 
 ![Partida de Xadrez no terminal do Intellij IDE](https://github.com/walterdevreis/chess-system-java/blob/main/src/img/partida-de-xadrez.png)
 
+## Modelo conceitual
 
+![UML](https://github.com/walterdevreis/chess-system-java/blob/main/src/img/chess-system-design.png)
+
+## Tecnologias utilizadas
+- Java
+- Intellij IDE Community Edition
+
+# Autor
+
+Walter Mariano Reis
+
+https://www.linkedin.com/in/walter-r-1b606880/
 
 
