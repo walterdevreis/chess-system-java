@@ -6,6 +6,8 @@ Chess system java é um jogo de console construído durante o curso **Java Compl
 
 A aplicação é realizada no console da IDE ou no terminal conforme imagem abaixo.
 
+![Partida de Xadrez no terminal do Intellij IDE](https://github.com/walterdevreis/chess-system-java/blob/main/src/img/partida-de-xadrez.png)
+
 
 
 
